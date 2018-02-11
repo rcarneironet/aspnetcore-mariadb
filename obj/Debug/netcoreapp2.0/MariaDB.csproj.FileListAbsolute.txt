@@ -1,0 +1,12 @@
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\app.db
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\MariaDB.deps.json
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\MariaDB.runtimeconfig.json
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\MariaDB.runtimeconfig.dev.json
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\MariaDB.dll
+C:\demos\aspnetcore-mariadb\MariaDB\bin\Debug\netcoreapp2.0\MariaDB.pdb
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\MariaDB.csproj.CoreCompileInputs.cache
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\MariaDB.AssemblyInfoInputs.cache
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\MariaDB.AssemblyInfo.cs
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\MariaDB.dll
+C:\demos\aspnetcore-mariadb\MariaDB\obj\Debug\netcoreapp2.0\MariaDB.pdb
